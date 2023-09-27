@@ -231,7 +231,7 @@ function registrarPaciente(){
 }
 
 function guardarPaciente(){
-
+    pacienteRegistrado = true;
 }
 
 if (pacienteRegistrado = true){
@@ -240,6 +240,7 @@ if (pacienteRegistrado = true){
     function guardarPaciente(){};
 }
 
+registrarPaciente();
 
 
 
